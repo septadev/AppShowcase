@@ -2,66 +2,21 @@
     "projects": [
         {
             "id": "0",
-            "imgUrl": "img/project-cheeky-fingers.jpg",
-            "imgAlt": "Cheeky Fingers",
-            "name": "Cheeky Fingers",
-            "url": "http://cheekyfingers.com",
-            "desc": "Cheeky Fingers is a beautifully crafted piano chord dictionary for iPhone & iPad. \n\n We've designed a beautiful sidekick for any beginner or advanced pianist. No fuss, no confusing menus or terminology - just the chords, in a handy little app. \n\n Choose a key to see chord variations, related chords and great sounding progressions in that key. Find chord inspiration for your next song.",
-            "tags": "Riot, APP, iOS, Cordova, PhoneGap, webapp"
+            "imgUrl": "img/android-decal.jpg",
+            "imgAlt": "SEPTA Android App",
+            "name": "SEPTA Android App",
+            "url": "https://play.google.com/store/apps/details?id=org.septa.android.app",
+            "desc": "The official SEPTA app brings our entire transit network directly to you with convenient access to schedule information, real-time updates, trip planning, fare options, social media connections, and Customer Service. This new app is perfect for customers on the go with your best SEPTA travel options right at your fingertips.",
+            "tags": "Android, Open Source, SEPTA"
         },
-        {
-            "id": "1",
-            "imgUrl": "img/project-riotgear.jpg",
-            "imgAlt": "RiotGear",
-            "name": "RiotGear",
-            "url": "http://riotgear.js.org",
-            "desc": "The open source component library for RiotJS.",
-            "tags": "Riot, Components, RiotGear"
-        },
-        {
-            "id": "2",
-            "imgUrl": "img/casinotheater.jpg",
-            "imgAlt": "Casinotheater Winterthur",
-            "name": "Casinotheater Winterthur",
-            "url": "https://www.casinotheater.ch/theater/spielplan",
-            "desc": "Online calendar app to show the available Theater events loaded progressively via ajax",
-            "tags": "Riot, Calendar, animations, responsive, ajax, html5history"
-        },
-        {
-            "id": "3",
-            "imgUrl": "img/roost.jpg",
-            "imgAlt": "Roost.com - Map Search",
-            "name": "Roost.com",
-            "url": "https://www.roost.com/app/",
-            "desc": "Find & Rent Storage and Parking space nearby!",
-            "tags": "Riot, animations, responsive, APP, iOS, Cordova, PhoneGap, webapp, google maps"
-        },
-        {
-            "id": "4",
-            "imgUrl": "img/project-grokdo.jpg",
-            "imgAlt": "Grokdo.com - Work together and smash your goals for FREE",
-            "name": "Grokdo - Work together",
-            "url": "https://grokdo.com",
-            "desc": "Managing your activities should be sensible, easy and empowering. Grokdo is a web application that will help you and your team work together, complete tasks and smash your goals. Its FREE for small groups or single users.",
-            "tags": "Riot, Application, Teams, Goals, Tasks"
-        },
-        {
-            "id": "5",
-            "imgUrl": "img/project-sociocaster.jpg",
-            "imgAlt": "Sociocaster - Powerful Social Media Management Software",
-            "name": "Sociocaster.com",
-            "url": "https://sociocaster.com",
-            "desc": "Sociocaster is the easiest way to build your business by using social media.",
-            "tags": "Riot, Application, Sociocaster, Social Media, Scheduler, Facebook, Twitter, LinkedIn, Wordpress"
-        },
-        {
-            "id": "6",
-            "imgUrl": "",
-            "imgAlt": "septa.org",
-            "name": "Test",
-            "url": "https://www.septa.org",
-            "desc": "This is a test",
-            "tags": ""
-        }
+		{
+			"id": "1",
+			"imgUrl": "img/SEPTA.jpg",
+			"imgAlt": "SEPTA iOS App",
+			"name": "SEPTA iOS App",
+			"url": "https://itunes.apple.com/us/app/septa/id724915219?mt=8",
+			"desc": "The official SEPTA app brings our entire transit network directly to you with convenient access to schedule information, real-time updates, trip planning, fare options, social media connections, and Customer Service. This new app is perfect for customers on the go with your best SEPTA travel options right at your fingertips.",
+			"tags": "iOS, SEPTA" 
+		}
     ]
 }
